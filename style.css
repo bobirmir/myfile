@@ -72,4 +72,24 @@
 {
     transform: rotate(315deg);
 }
-  
+footer{
+  height: -500px;
+ 
+}
+
+#down{
+  position: relative;
+ 
+
+ float: right;
+}
+#down > li{
+display: inline;
+
+}
+#down i{
+  font-size: 150%;
+  margin: 1%;
+  padding: 5%;
+  color: white;
+}
